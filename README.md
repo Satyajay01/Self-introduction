@@ -8,9 +8,15 @@ My name Satyajay dibya, I am 22 years old,
 
 I was born in Dist janjgir-champa chhattisgarh,
 
-I did my graduation in Bachelor of Computer Application from chaitanya art & science college pamgarh,
+I did my graduation in Bachelor of Computer Application from chaitanya art & science college pamgarh.
 
-I belong to a nuclear family. My strengths includes honesty, smart work, Self motivated and quick learner.
+I recently completed my MERN stack developer career course from Midas institute Raipur.
+
+And i have one year experience in a Computer technician from Sai Computer worls shop pamgarh.
+
+I belong to a nuclear family. 
+
+My strengths includes honesty, smart work, Self motivated and quick learner.
 
 My short term goal is to get a job in a good company and long term goal is to get placed in a reputed company.
 
